@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "イキガール",
+  "base_artist": "ななしまゆう",
+  "createdAt": "2025-12-26T07:24:41.499035Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "イキガール (feat. 重音テト & GUMI)",
+      "artist": "ななしまゆう",
+      "has_synced": false,
+      "path": "select/pl_01_イキガール_(feat._重音テト_&_GUMI)_ななしまゆう.txt"
+    }
+  ]
+}
